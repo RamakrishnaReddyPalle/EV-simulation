@@ -15,6 +15,12 @@ Local hosting, and my git commands.
 
 7) See how to generate ssh key?
 
+8) Main (master) is our main branch of repository. to commit changes on that, the command is (git push/pull origin main)
+
+9) To check, which branch we are in, type (git branch)
+
+10) 
+
 
 
 
