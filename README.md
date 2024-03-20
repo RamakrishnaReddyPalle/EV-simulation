@@ -1,19 +1,19 @@
 # Git commands
 Local hosting, and my git commands.
 
-# Command to show all the hidden files in the current directory is: "Get-ChildItem -Force"
+1) Command to show all the hidden files in the current directory is: "Get-ChildItem -Force"
 
-# the ".git" File is responsible to store all the commit changes over time.
+2) the ".git" File is responsible to store all the commit changes over time.
 
-# untracked files to be added to git by using (git add) command
+3) untracked files to be added to git by using (git add) command
 
-# Now the updated status is shown in green
+4) Now the updated status is shown in green
 
-# now (git commit -m "Added message")
+5) now (git commit -m "Added message")
 
-# The code is now saved locally. Now we push it to github repository by (git push) command.
+6)The code is now saved locally. Now we push it to github repository by (git push) command.
 
-# See how to generate ssh key?
+7) See how to generate ssh key?
 
 
 
