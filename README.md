@@ -11,7 +11,7 @@ Local hosting, and my git commands.
 
 5) now (git commit -m "Added message")
 
-6)The code is now saved locally. Now we push it to github repository by (git push) command.
+6) The code is now saved locally. Now we push it to github repository by (git push) command.
 
 7) See how to generate ssh key?
 
